@@ -1,0 +1,170 @@
+2021-02-11 15:29:53,835 :INFO : test_signin :Sign in form:
+2021-02-11 15:30:15,812 :INFO : test_signin :Sign in form:
+2021-02-11 15:30:42,593 :INFO : test_signin :Sign in form:
+2021-02-11 15:30:42,593 :INFO : test_signin :UserName: Abraham
+2021-02-11 15:30:58,162 :INFO : test_signin :Sign in form:
+2021-02-11 15:30:58,162 :INFO : test_signin :UserName: Abraham
+2021-02-11 15:30:58,373 :INFO : test_signin :Email: signintest1@gmail.com
+2021-02-11 15:30:58,449 :INFO : test_signin :Password: abcd1234
+2021-02-11 15:31:03,397 :INFO : test_signin :Singed in Username: Abraham
+2021-02-11 18:41:45,807 :INFO : test_checkout :Discount is: 50.0
+2021-02-11 19:16:39,162 :INFO : test_checkout :Discount is: 50.0
+2021-02-11 19:17:13,834 :INFO : test_checkout :Discount is: 50.0
+2021-02-11 19:20:29,736 :INFO : test_checkout :Discount is: 50.0
+2021-02-11 19:23:08,319 :INFO : test_checkout :Discount is: 50.0
+2021-02-11 19:27:34,803 :INFO : test_checkout :Discount is: 50.0
+2021-02-11 19:31:15,554 :INFO : test_checkout :Final price: 420.0
+2021-02-11 19:31:15,554 :INFO : test_checkout :Discount is: 50.0
+2021-02-11 19:33:08,922 :INFO : test_checkout :Checkout Page:
+2021-02-11 19:34:03,241 :INFO : test_checkout :Checkout Page:
+2021-02-11 19:34:10,646 :INFO : test_checkout :Prices: [<selenium.webdriver.remote.webelement.WebElement (session="dfcf668f727c74ccc49e1b131d6c1ce6", element="33f9404a-06fe-482b-b389-16d375fce727")>, <selenium.webdriver.remote.webelement.WebElement (session="dfcf668f727c74ccc49e1b131d6c1ce6", element="e92ea5a8-1d15-4a49-bf4c-d95cb06f5f30")>, <selenium.webdriver.remote.webelement.WebElement (session="dfcf668f727c74ccc49e1b131d6c1ce6", element="9bb6668c-2f41-4f81-8abb-95699b187de4")>, <selenium.webdriver.remote.webelement.WebElement (session="dfcf668f727c74ccc49e1b131d6c1ce6", element="b549dbea-8b9c-415c-b514-7587ab600997")>, <selenium.webdriver.remote.webelement.WebElement (session="dfcf668f727c74ccc49e1b131d6c1ce6", element="ce25820d-443d-4fc1-92f0-9c5105a7c394")>]
+2021-02-11 19:34:10,702 :INFO : test_checkout :Final price: 420.0
+2021-02-11 19:34:10,702 :INFO : test_checkout :Discount is: 50.0
+2021-02-11 19:37:15,218 :INFO : test_checkout :Checkout Page:
+2021-02-11 19:37:26,279 :INFO : test_checkout :Prices: [<selenium.webdriver.remote.webelement.WebElement (session="0c761d588d813c92a5d287f012d15938", element="7e292eab-2a0c-4403-8370-eab24d5ac4f3")>, <selenium.webdriver.remote.webelement.WebElement (session="0c761d588d813c92a5d287f012d15938", element="26d271b7-1207-4a84-a18c-1b5b06a84996")>, <selenium.webdriver.remote.webelement.WebElement (session="0c761d588d813c92a5d287f012d15938", element="2fc35652-b684-4314-b8e2-019546a7c3e3")>, <selenium.webdriver.remote.webelement.WebElement (session="0c761d588d813c92a5d287f012d15938", element="8ac826cf-1fc3-422a-927c-0207ec348bec")>]
+2021-02-11 19:37:26,336 :INFO : test_checkout :Final price: 335.0
+2021-02-11 19:37:26,336 :INFO : test_checkout :Discount is: 50.0
+2021-02-11 19:39:22,586 :INFO : test_checkout :Checkout Page:
+2021-02-11 19:40:40,500 :INFO : test_checkout :Checkout Page:
+2021-02-11 19:43:56,021 :INFO : test_checkout :Checkout Page:
+2021-02-11 19:46:55,842 :INFO : test_checkout :Checkout Page:
+2021-02-11 19:47:04,456 :INFO : test_checkout :Prices: 85.00¤-50.00¤-285.00¤-420.00¤-370.00
+2021-02-11 19:47:04,456 :INFO : test_checkout :Final price: 420.0
+2021-02-11 19:47:04,456 :INFO : test_checkout :Discount is: 50.0
+2021-02-11 19:48:55,830 :INFO : test_checkout :Checkout Page:
+2021-02-11 19:49:07,570 :INFO : test_checkout :Prices: 85.00,50.00,285.00,420.00,370.00
+2021-02-11 19:49:07,570 :INFO : test_checkout :Final price: 370.0
+2021-02-11 19:49:07,570 :INFO : test_checkout :Discount is: 50.0
+2021-02-11 19:53:26,611 :INFO : test_checkout :Checkout Page:
+2021-02-11 19:53:59,076 :INFO : test_checkout :Checkout Page:
+2021-02-11 19:54:06,510 :INFO : test_checkout :Prices: 85.00,50.00,285.00,420.00,370.00
+2021-02-11 19:54:06,510 :INFO : test_checkout :Price Before Discount: 370.0
+2021-02-11 19:54:06,510 :INFO : test_checkout :Discount Is: 50.0
+2021-02-11 19:54:06,511 :INFO : test_checkout :Prices After Discount: 420.0
+2021-02-11 19:54:46,637 :INFO : test_checkout :Checkout Page:
+2021-02-11 19:55:03,386 :INFO : test_checkout :Prices: 85.00,50.00,285.00,420.00,370.00
+2021-02-11 19:55:03,386 :INFO : test_checkout :Price Before Discount: 420.0
+2021-02-11 19:55:03,386 :INFO : test_checkout :Discount Is: 50.0
+2021-02-11 19:55:03,386 :INFO : test_checkout :Prices After Discount: 370.0
+2021-02-13 21:27:23,412 :INFO : test_checkout :Checkout Page:
+2021-02-13 21:27:53,529 :INFO : test_checkout :Prices: 50.00,50.00,50.00
+2021-02-13 21:27:53,529 :INFO : test_checkout :Price Before Discount: 50.0
+2021-02-13 21:27:53,530 :INFO : test_checkout :Discount Is: 0.0
+2021-02-13 21:27:53,530 :INFO : test_checkout :Prices After Discount: 50.0
+2021-02-13 21:28:27,228 :INFO : test_e2e :Filling the Form:
+2021-02-13 21:28:27,325 :INFO : test_e2e :First name entered: Abraham
+2021-02-13 21:28:27,409 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-13 21:28:27,519 :INFO : test_e2e :Email entered: testing457dhg54@gmail.com
+2021-02-13 21:28:27,682 :INFO : test_e2e :password entered: abcd1234
+2021-02-13 21:28:27,709 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-13 21:28:28,385 :INFO : test_e2e :Date of birth: ['2002', '01', '01']
+2021-02-13 21:28:28,522 :INFO : test_e2e :End of form message 
+2021-02-13 21:28:48,805 :INFO : test_signin :Sign in form:
+2021-02-13 21:28:48,805 :INFO : test_signin :UserName: Abraham
+2021-02-13 21:28:49,194 :INFO : test_signin :Email: signintest1@gmail.com
+2021-02-13 21:28:49,337 :INFO : test_signin :Password: abcd1234
+2021-02-13 21:29:01,012 :INFO : test_signin :Singed in Username: Abraham
+2021-02-13 21:40:11,966 :INFO : test_checkout :Checkout Page:
+2021-02-13 21:40:20,004 :INFO : test_checkout :Prices: 85.00,50.00,285.00,420.00,370.00
+2021-02-13 21:40:20,004 :INFO : test_checkout :Price Before Discount: 420.0
+2021-02-13 21:40:20,005 :INFO : test_checkout :Discount Is: 50.0
+2021-02-13 21:40:20,005 :INFO : test_checkout :Prices After Discount: 370.0
+2021-02-13 21:40:54,389 :INFO : test_e2e :Filling the Form:
+2021-02-13 21:40:54,461 :INFO : test_e2e :First name entered: Abraham
+2021-02-13 21:40:54,511 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-13 21:40:54,578 :INFO : test_e2e :Email entered: testing457dhg54@gmail.com
+2021-02-13 21:40:54,682 :INFO : test_e2e :password entered: abcd1234
+2021-02-13 21:40:54,698 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-13 21:40:55,099 :INFO : test_e2e :Date of birth: ['2002', '', '01']
+2021-02-13 21:40:55,175 :INFO : test_e2e :End of form message 
+2021-02-13 21:41:49,719 :INFO : test_signin :Sign in form:
+2021-02-13 21:41:49,720 :INFO : test_signin :UserName: Abraham
+2021-02-13 21:41:49,911 :INFO : test_signin :Email: signintest1@gmail.com
+2021-02-13 21:41:49,974 :INFO : test_signin :Password: abcd1234
+2021-02-13 21:42:03,566 :INFO : test_signin :Singed in Username: Abraham
+2021-02-14 00:39:46,445 :INFO : test_checkout :Checkout Page:
+2021-02-14 00:39:55,688 :INFO : test_checkout :Prices: 85.00,50.00,285.00,420.00,370.00
+2021-02-14 00:39:55,688 :INFO : test_checkout :Price Before Discount: 420.0
+2021-02-14 00:39:55,688 :INFO : test_checkout :Discount Is: 50.0
+2021-02-14 00:39:55,688 :INFO : test_checkout :Prices After Discount: 370.0
+2021-02-14 00:40:17,834 :INFO : test_e2e :Filling the Form:
+2021-02-14 00:40:17,892 :INFO : test_e2e :First name entered: Abraham
+2021-02-14 00:40:17,941 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-14 00:40:18,008 :INFO : test_e2e :Email entered: testing457dhg54@gmail.com
+2021-02-14 00:40:18,108 :INFO : test_e2e :password entered: abcd1234
+2021-02-14 00:40:18,123 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-14 00:40:18,581 :INFO : test_e2e :Date of birth: ['2002', '01', '01']
+2021-02-14 00:40:18,659 :INFO : test_e2e :End of form message 
+2021-02-14 00:40:38,163 :INFO : test_signin :Sign in form:
+2021-02-14 00:40:38,163 :INFO : test_signin :UserName: Abraham
+2021-02-14 00:41:28,384 :INFO : test_checkout :Checkout Page:
+2021-02-14 00:41:37,683 :INFO : test_checkout :Prices: 85.00,50.00,285.00,420.00,370.00
+2021-02-14 00:41:37,683 :INFO : test_checkout :Price Before Discount: 420.0
+2021-02-14 00:41:37,683 :INFO : test_checkout :Discount Is: 50.0
+2021-02-14 00:41:37,683 :INFO : test_checkout :Prices After Discount: 370.0
+2021-02-14 00:41:55,722 :INFO : test_e2e :Filling the Form:
+2021-02-14 00:41:55,910 :INFO : test_e2e :First name entered: Abraham
+2021-02-14 00:41:56,026 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-14 00:41:56,146 :INFO : test_e2e :Email entered: testing457dhg54@gmail.com
+2021-02-14 00:41:56,333 :INFO : test_e2e :password entered: abcd1234
+2021-02-14 00:41:56,361 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-14 00:41:57,047 :INFO : test_e2e :Date of birth: ['2002', '01', '01']
+2021-02-14 00:41:57,176 :INFO : test_e2e :End of form message 
+2021-02-14 00:42:15,494 :INFO : test_signin :Sign in form:
+2021-02-14 00:42:15,494 :INFO : test_signin :UserName: Abraham
+2021-02-14 00:42:15,731 :INFO : test_signin :Email: signintest1@gmail.com
+2021-02-14 00:42:15,810 :INFO : test_signin :Password: abcd1234
+2021-02-14 00:42:23,309 :INFO : test_signin :Singed in Username: Abraham
+2021-02-14 00:50:11,900 :INFO : test_checkout :Checkout Page:
+2021-02-14 00:50:22,074 :INFO : test_checkout :Prices: 85.00,50.00,285.00,420.00,370.00
+2021-02-14 00:50:22,074 :INFO : test_checkout :Price Before Discount: 420.0
+2021-02-14 00:50:22,074 :INFO : test_checkout :Discount Is: 50.0
+2021-02-14 00:50:22,074 :INFO : test_checkout :Prices After Discount: 370.0
+2021-02-14 00:50:44,124 :INFO : test_e2e :Filling the Form:
+2021-02-14 00:50:44,171 :INFO : test_e2e :First name entered: Abraham
+2021-02-14 00:50:44,240 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-14 00:50:44,325 :INFO : test_e2e :Email entered: testing457dhg54@gmail.com
+2021-02-14 00:50:45,058 :INFO : test_e2e :password entered: abcd1234
+2021-02-14 00:50:45,089 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-14 00:50:46,947 :INFO : test_e2e :Date of birth: ['2002', '01', '01']
+2021-02-14 00:50:47,210 :INFO : test_e2e :End of form message 
+2021-02-14 00:51:12,435 :INFO : test_signin :Sign in form:
+2021-02-14 00:51:12,435 :INFO : test_signin :UserName: Abraham
+2021-02-14 00:51:12,883 :INFO : test_signin :Email: signintest1@gmail.com
+2021-02-14 00:51:12,898 :INFO : test_signin :Password: abcd1234
+2021-02-14 00:55:13,177 :INFO : test_checkout :Checkout Page:
+2021-02-14 00:55:24,591 :INFO : test_checkout :Prices: 85.00,50.00,285.00,420.00,370.00
+2021-02-14 00:55:24,592 :INFO : test_checkout :Price Before Discount: 420.0
+2021-02-14 00:55:24,592 :INFO : test_checkout :Discount Is: 50.0
+2021-02-14 00:55:24,592 :INFO : test_checkout :Prices After Discount: 370.0
+2021-02-14 00:55:50,412 :INFO : test_e2e :Filling the Form:
+2021-02-14 00:55:50,506 :INFO : test_e2e :First name entered: Abraham
+2021-02-14 00:55:50,546 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-14 00:55:50,617 :INFO : test_e2e :Email entered: testing457dhg54@gmail.com
+2021-02-14 00:55:50,921 :INFO : test_e2e :password entered: abcd1234
+2021-02-14 00:55:50,957 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-14 00:55:52,530 :INFO : test_e2e :Date of birth: ['2002', '01', '01']
+2021-02-14 00:55:52,837 :INFO : test_e2e :End of form message 
+2021-02-14 00:56:16,465 :INFO : test_signin :Sign in form:
+2021-02-14 00:56:16,465 :INFO : test_signin :UserName: Abraham
+2021-02-14 00:56:16,951 :INFO : test_signin :Email: signintest1@gmail.com
+2021-02-14 00:56:17,017 :INFO : test_signin :Password: abcd1234
+2021-02-14 00:56:22,733 :INFO : test_signin :Singed in Username: Abraham
+2021-02-14 01:03:28,062 :INFO : test_checkout :Checkout Page:
+2021-02-14 01:03:34,789 :INFO : test_checkout :Prices: 85.00,50.00,285.00,420.00,370.00
+2021-02-14 01:03:34,789 :INFO : test_checkout :Price Before Discount: 420.0
+2021-02-14 01:03:34,789 :INFO : test_checkout :Discount Is: 50.0
+2021-02-14 01:03:34,789 :INFO : test_checkout :Prices After Discount: 370.0
+2021-02-14 01:04:07,708 :INFO : test_e2e :Filling the Form:
+2021-02-14 01:04:07,775 :INFO : test_e2e :First name entered: Abraham
+2021-02-14 01:04:08,072 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-14 01:04:08,148 :INFO : test_e2e :Email entered: testing457dhg54@gmail.com
+2021-02-14 01:04:08,260 :INFO : test_e2e :password entered: abcd1234
+2021-02-14 01:04:08,333 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-14 01:04:08,768 :INFO : test_e2e :Date of birth: ['', '01', '01']
+2021-02-14 01:04:08,851 :INFO : test_e2e :End of form message 
+2021-02-14 01:04:16,851 :INFO : test_signin :Sign in form:
+2021-02-14 01:04:16,852 :INFO : test_signin :UserName: Abraham
+2021-02-14 01:04:17,408 :INFO : test_signin :Email: signintest1@gmail.com
+2021-02-14 01:04:17,542 :INFO : test_signin :Password: abcd1234
+2021-02-14 01:04:22,721 :INFO : test_signin :Singed in Username: Abraham

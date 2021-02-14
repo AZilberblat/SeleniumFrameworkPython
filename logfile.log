@@ -1,0 +1,297 @@
+2021-02-10 16:24:21,146 :INFO : test_e2e :Filling the Form:
+2021-02-10 16:24:25,757 :INFO : test_e2e :Filling the Form:
+2021-02-10 16:24:25,757 :INFO : test_e2e :Filling the Form:
+2021-02-10 16:33:46,845 :INFO : test_e2e :Filling the Form:
+2021-02-10 16:33:46,973 :INFO : test_e2e :First name entered: Abraham
+2021-02-10 16:33:47,097 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-10 16:33:47,326 :INFO : test_e2e :Email entered: testing@gmail.com
+2021-02-10 16:33:48,018 :INFO : test_e2e :password entered: abcd1234
+2021-02-10 16:33:48,057 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-10 16:33:51,434 :INFO : test_e2e :Filling the Form:
+2021-02-10 16:33:51,434 :INFO : test_e2e :Filling the Form:
+2021-02-10 16:33:51,520 :INFO : test_e2e :First name entered: Levi
+2021-02-10 16:33:51,520 :INFO : test_e2e :First name entered: Levi
+2021-02-10 16:33:51,604 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-10 16:33:51,604 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-10 16:33:51,709 :INFO : test_e2e :Email entered: testin12@gmail.com
+2021-02-10 16:33:51,709 :INFO : test_e2e :Email entered: testin12@gmail.com
+2021-02-10 16:33:51,885 :INFO : test_e2e :password entered: abcd1234
+2021-02-10 16:33:51,885 :INFO : test_e2e :password entered: abcd1234
+2021-02-10 16:33:51,908 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-10 16:33:51,908 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-10 16:34:28,758 :INFO : test_e2e :Filling the Form:
+2021-02-10 16:34:28,868 :INFO : test_e2e :First name entered: Abraham
+2021-02-10 16:34:29,035 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-10 16:34:29,557 :INFO : test_e2e :Email entered: testing@gmail.com
+2021-02-10 16:34:29,747 :INFO : test_e2e :password entered: abcd1234
+2021-02-10 16:34:29,772 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-10 16:34:33,254 :INFO : test_e2e :Filling the Form:
+2021-02-10 16:34:33,254 :INFO : test_e2e :Filling the Form:
+2021-02-10 16:34:33,336 :INFO : test_e2e :First name entered: Levi
+2021-02-10 16:34:33,336 :INFO : test_e2e :First name entered: Levi
+2021-02-10 16:34:33,418 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-10 16:34:33,418 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-10 16:34:33,520 :INFO : test_e2e :Email entered: testin12@gmail.com
+2021-02-10 16:34:33,520 :INFO : test_e2e :Email entered: testin12@gmail.com
+2021-02-10 16:34:33,687 :INFO : test_e2e :password entered: abcd1234
+2021-02-10 16:34:33,687 :INFO : test_e2e :password entered: abcd1234
+2021-02-10 16:34:33,717 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-10 16:34:33,717 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-10 16:35:25,809 :INFO : test_e2e :Filling the Form:
+2021-02-10 16:35:26,286 :INFO : test_e2e :First name entered: Abraham
+2021-02-10 16:35:26,383 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-10 16:35:26,549 :INFO : test_e2e :Email entered: testing@gmail.com
+2021-02-10 16:35:27,318 :INFO : test_e2e :password entered: abcd1234
+2021-02-10 16:35:27,345 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-10 16:35:34,009 :INFO : test_e2e :Filling the Form:
+2021-02-10 16:35:34,009 :INFO : test_e2e :Filling the Form:
+2021-02-10 16:35:34,100 :INFO : test_e2e :First name entered: Levi
+2021-02-10 16:35:34,100 :INFO : test_e2e :First name entered: Levi
+2021-02-10 16:35:34,195 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-10 16:35:34,195 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-10 16:35:34,310 :INFO : test_e2e :Email entered: testin12@gmail.com
+2021-02-10 16:35:34,310 :INFO : test_e2e :Email entered: testin12@gmail.com
+2021-02-10 16:35:34,511 :INFO : test_e2e :password entered: abcd1234
+2021-02-10 16:35:34,511 :INFO : test_e2e :password entered: abcd1234
+2021-02-10 16:35:34,534 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-10 16:35:34,534 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-10 18:08:36,548 :INFO : test_e2e :Filling the Form:
+2021-02-10 18:08:36,636 :INFO : test_e2e :First name entered: Abraham
+2021-02-10 18:08:36,695 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-10 18:08:36,771 :INFO : test_e2e :Email entered: testing54@gmail.com
+2021-02-10 18:08:36,915 :INFO : test_e2e :password entered: abcd1234
+2021-02-10 18:08:36,932 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-10 18:08:49,806 :INFO : test_e2e :Filling the Form:
+2021-02-10 18:08:49,806 :INFO : test_e2e :Filling the Form:
+2021-02-10 18:08:50,083 :INFO : test_e2e :First name entered: Levi
+2021-02-10 18:08:50,083 :INFO : test_e2e :First name entered: Levi
+2021-02-10 18:08:50,134 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-10 18:08:50,134 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-10 18:08:50,195 :INFO : test_e2e :Email entered: testin1278@gmail.com
+2021-02-10 18:08:50,195 :INFO : test_e2e :Email entered: testin1278@gmail.com
+2021-02-10 18:08:50,302 :INFO : test_e2e :password entered: abcd1234
+2021-02-10 18:08:50,302 :INFO : test_e2e :password entered: abcd1234
+2021-02-10 18:08:50,320 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-10 18:08:50,320 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-10 18:09:15,918 :INFO : test_e2e :Filling the Form:
+2021-02-10 18:09:16,266 :INFO : test_e2e :First name entered: Abraham
+2021-02-10 18:09:16,313 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-10 18:09:16,371 :INFO : test_e2e :Email entered: testing54@gmail.com
+2021-02-10 18:09:16,476 :INFO : test_e2e :password entered: abcd1234
+2021-02-10 18:09:16,494 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-10 18:09:30,158 :INFO : test_e2e :Filling the Form:
+2021-02-10 18:09:30,158 :INFO : test_e2e :Filling the Form:
+2021-02-10 18:09:30,437 :INFO : test_e2e :First name entered: Levi
+2021-02-10 18:09:30,437 :INFO : test_e2e :First name entered: Levi
+2021-02-10 18:09:30,482 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-10 18:09:30,482 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-10 18:09:30,538 :INFO : test_e2e :Email entered: testin1278@gmail.com
+2021-02-10 18:09:30,538 :INFO : test_e2e :Email entered: testin1278@gmail.com
+2021-02-10 18:09:30,635 :INFO : test_e2e :password entered: abcd1234
+2021-02-10 18:09:30,635 :INFO : test_e2e :password entered: abcd1234
+2021-02-10 18:09:30,650 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-10 18:09:30,650 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-10 18:10:43,196 :INFO : test_e2e :Filling the Form:
+2021-02-10 18:10:43,259 :INFO : test_e2e :First name entered: Abraham
+2021-02-10 18:10:43,307 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-10 18:10:43,375 :INFO : test_e2e :Email entered: testing54@gmail.com
+2021-02-10 18:10:43,499 :INFO : test_e2e :password entered: abcd1234
+2021-02-10 18:10:43,515 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-10 18:10:56,332 :INFO : test_e2e :Filling the Form:
+2021-02-10 18:10:56,332 :INFO : test_e2e :Filling the Form:
+2021-02-10 18:10:56,613 :INFO : test_e2e :First name entered: Levi
+2021-02-10 18:10:56,613 :INFO : test_e2e :First name entered: Levi
+2021-02-10 18:10:56,661 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-10 18:10:56,661 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-10 18:10:56,720 :INFO : test_e2e :Email entered: testin1278@gmail.com
+2021-02-10 18:10:56,720 :INFO : test_e2e :Email entered: testin1278@gmail.com
+2021-02-10 18:10:56,824 :INFO : test_e2e :password entered: abcd1234
+2021-02-10 18:10:56,824 :INFO : test_e2e :password entered: abcd1234
+2021-02-10 18:10:56,837 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-10 18:10:56,837 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-10 18:14:52,601 :INFO : test_e2e :Filling the Form:
+2021-02-10 18:14:52,814 :INFO : test_e2e :First name entered: Abraham
+2021-02-10 18:14:52,885 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-10 18:14:52,984 :INFO : test_e2e :Email entered: testing54@gmail.com
+2021-02-10 18:14:53,112 :INFO : test_e2e :password entered: abcd1234
+2021-02-10 18:14:53,128 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-10 18:15:06,712 :INFO : test_e2e :Filling the Form:
+2021-02-10 18:15:06,712 :INFO : test_e2e :Filling the Form:
+2021-02-10 18:15:06,771 :INFO : test_e2e :First name entered: Levi
+2021-02-10 18:15:06,771 :INFO : test_e2e :First name entered: Levi
+2021-02-10 18:15:06,817 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-10 18:15:06,817 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-10 18:15:06,877 :INFO : test_e2e :Email entered: testin1278@gmail.com
+2021-02-10 18:15:06,877 :INFO : test_e2e :Email entered: testin1278@gmail.com
+2021-02-10 18:15:06,982 :INFO : test_e2e :password entered: abcd1234
+2021-02-10 18:15:06,982 :INFO : test_e2e :password entered: abcd1234
+2021-02-10 18:15:06,995 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-10 18:15:06,995 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-10 18:30:48,148 :INFO : test_e2e :Filling the Form:
+2021-02-10 18:30:48,319 :INFO : test_e2e :First name entered: Abraham
+2021-02-10 18:30:48,471 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-10 18:30:48,687 :INFO : test_e2e :Email entered: testing54@gmail.com
+2021-02-10 18:30:49,059 :INFO : test_e2e :password entered: abcd1234
+2021-02-10 18:30:49,104 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-10 18:34:14,639 :INFO : test_e2e :Filling the Form:
+2021-02-10 18:34:14,935 :INFO : test_e2e :First name entered: Abraham
+2021-02-10 18:34:14,985 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-10 18:34:15,051 :INFO : test_e2e :Email entered: testinghg54@gmail.com
+2021-02-10 18:34:15,159 :INFO : test_e2e :password entered: abcd1234
+2021-02-10 18:34:15,176 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-10 18:34:18,705 :INFO : test_e2e :Filling the Form:
+2021-02-10 18:34:18,705 :INFO : test_e2e :Filling the Form:
+2021-02-10 18:34:18,983 :INFO : test_e2e :First name entered: Levi
+2021-02-10 18:34:18,983 :INFO : test_e2e :First name entered: Levi
+2021-02-10 18:34:19,032 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-10 18:34:19,032 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-10 18:34:19,090 :INFO : test_e2e :Email entered: tesfhtin1278@gmail.com
+2021-02-10 18:34:19,090 :INFO : test_e2e :Email entered: tesfhtin1278@gmail.com
+2021-02-10 18:34:19,187 :INFO : test_e2e :password entered: abcd1234
+2021-02-10 18:34:19,187 :INFO : test_e2e :password entered: abcd1234
+2021-02-10 18:34:19,202 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-10 18:34:19,202 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-10 18:45:20,585 :INFO : test_e2e :Filling the Form:
+2021-02-10 18:45:20,664 :INFO : test_e2e :First name entered: Abraham
+2021-02-10 18:45:20,779 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-10 18:45:20,869 :INFO : test_e2e :Email entered: testinghg54@gmail.com
+2021-02-10 18:45:21,038 :INFO : test_e2e :password entered: abcd1234
+2021-02-10 18:45:21,081 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-10 18:45:24,238 :INFO : test_e2e :Filling the Form:
+2021-02-10 18:45:24,238 :INFO : test_e2e :Filling the Form:
+2021-02-10 18:45:24,293 :INFO : test_e2e :First name entered: Levi
+2021-02-10 18:45:24,293 :INFO : test_e2e :First name entered: Levi
+2021-02-10 18:45:24,527 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-10 18:45:24,527 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-10 18:45:24,678 :INFO : test_e2e :Email entered: tesfhtin1278@gmail.com
+2021-02-10 18:45:24,678 :INFO : test_e2e :Email entered: tesfhtin1278@gmail.com
+2021-02-10 18:45:24,799 :INFO : test_e2e :password entered: abcd1234
+2021-02-10 18:45:24,799 :INFO : test_e2e :password entered: abcd1234
+2021-02-10 18:45:24,815 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-10 18:45:24,815 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-10 18:58:35,851 :INFO : test_e2e :Filling the Form:
+2021-02-10 18:58:35,918 :INFO : test_e2e :First name entered: Abraham
+2021-02-10 18:58:35,969 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-10 18:58:36,262 :INFO : test_e2e :Email entered: testinghg54@gmail.com
+2021-02-10 18:58:36,370 :INFO : test_e2e :password entered: abcd1234
+2021-02-10 18:58:36,387 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-10 18:58:42,148 :INFO : test_e2e :Filling the Form:
+2021-02-10 18:58:42,148 :INFO : test_e2e :Filling the Form:
+2021-02-10 18:58:42,196 :INFO : test_e2e :First name entered: Levi
+2021-02-10 18:58:42,196 :INFO : test_e2e :First name entered: Levi
+2021-02-10 18:58:42,242 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-10 18:58:42,242 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-10 18:58:42,302 :INFO : test_e2e :Email entered: tesfhtin1278@gmail.com
+2021-02-10 18:58:42,302 :INFO : test_e2e :Email entered: tesfhtin1278@gmail.com
+2021-02-10 18:58:42,407 :INFO : test_e2e :password entered: abcd1234
+2021-02-10 18:58:42,407 :INFO : test_e2e :password entered: abcd1234
+2021-02-10 18:58:42,423 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-10 18:58:42,423 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-11 11:40:21,091 :INFO : test_e2e :Filling the Form:
+2021-02-11 11:40:21,216 :INFO : test_e2e :First name entered: Abraham
+2021-02-11 11:40:21,317 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-11 11:40:21,459 :INFO : test_e2e :Email entered: testing4hg54@gmail.com
+2021-02-11 11:40:21,683 :INFO : test_e2e :password entered: abcd1234
+2021-02-11 11:40:21,710 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-11 11:44:59,833 :INFO : test_e2e :Filling the Form:
+2021-02-11 11:44:59,917 :INFO : test_e2e :First name entered: Abraham
+2021-02-11 11:44:59,974 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-11 11:45:00,034 :INFO : test_e2e :Email entered: testing4hg54@gmail.com
+2021-02-11 11:45:00,132 :INFO : test_e2e :password entered: abcd1234
+2021-02-11 11:45:00,148 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-11 11:48:15,052 :INFO : test_e2e :Filling the Form:
+2021-02-11 11:48:15,119 :INFO : test_e2e :First name entered: Abraham
+2021-02-11 11:48:15,179 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-11 11:48:15,246 :INFO : test_e2e :Email entered: testing4hg54@gmail.com
+2021-02-11 11:48:15,348 :INFO : test_e2e :password entered: abcd1234
+2021-02-11 11:48:15,365 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-11 11:55:07,263 :INFO : test_e2e :Filling the Form:
+2021-02-11 11:55:07,331 :INFO : test_e2e :First name entered: Abraham
+2021-02-11 11:55:07,384 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-11 11:55:07,452 :INFO : test_e2e :Email entered: testing4hg54@gmail.com
+2021-02-11 11:55:07,573 :INFO : test_e2e :password entered: abcd1234
+2021-02-11 11:55:07,591 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-11 11:55:07,600 :INFO : test_e2e :test of birth
+2021-02-11 12:03:03,970 :INFO : test_e2e :Filling the Form:
+2021-02-11 12:03:04,090 :INFO : test_e2e :First name entered: Abraham
+2021-02-11 12:03:04,186 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-11 12:03:04,342 :INFO : test_e2e :Email entered: testing4hg54@gmail.com
+2021-02-11 12:03:05,004 :INFO : test_e2e :password entered: abcd1234
+2021-02-11 12:03:05,048 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-11 12:03:05,064 :INFO : test_e2e :test of birth
+2021-02-11 12:06:07,951 :INFO : test_e2e :Filling the Form:
+2021-02-11 12:06:08,015 :INFO : test_e2e :First name entered: Abraham
+2021-02-11 12:06:08,291 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-11 12:06:08,357 :INFO : test_e2e :Email entered: testing4hg54@gmail.com
+2021-02-11 12:06:08,463 :INFO : test_e2e :password entered: abcd1234
+2021-02-11 12:06:08,478 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-11 12:14:56,779 :INFO : test_e2e :Filling the Form:
+2021-02-11 12:14:56,846 :INFO : test_e2e :First name entered: Abraham
+2021-02-11 12:14:56,903 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-11 12:14:56,976 :INFO : test_e2e :Email entered: testing4hg54@gmail.com
+2021-02-11 12:14:57,112 :INFO : test_e2e :password entered: abcd1234
+2021-02-11 12:14:57,138 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-11 12:15:41,264 :INFO : test_e2e :Filling the Form:
+2021-02-11 12:15:41,423 :INFO : test_e2e :First name entered: Abraham
+2021-02-11 12:15:41,580 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-11 12:15:41,793 :INFO : test_e2e :Email entered: testing4hg54@gmail.com
+2021-02-11 12:15:42,177 :INFO : test_e2e :password entered: abcd1234
+2021-02-11 12:15:42,238 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-11 12:15:42,261 :INFO : test_e2e :test of birth
+2021-02-11 12:17:39,367 :INFO : test_e2e :Filling the Form:
+2021-02-11 12:17:39,432 :INFO : test_e2e :First name entered: Abraham
+2021-02-11 12:17:39,486 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-11 12:17:39,555 :INFO : test_e2e :Email entered: testing4hg54@gmail.com
+2021-02-11 12:17:39,674 :INFO : test_e2e :password entered: abcd1234
+2021-02-11 12:17:39,695 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-11 12:17:40,096 :INFO : test_e2e :test of birth
+2021-02-11 12:22:01,478 :INFO : test_e2e :Filling the Form:
+2021-02-11 12:22:01,540 :INFO : test_e2e :First name entered: Abraham
+2021-02-11 12:22:01,818 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-11 12:22:01,873 :INFO : test_e2e :Email entered: testing45hg54@gmail.com
+2021-02-11 12:22:01,987 :INFO : test_e2e :password entered: abcd1234
+2021-02-11 12:22:02,004 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-11 12:22:37,795 :INFO : test_e2e :Filling the Form:
+2021-02-11 12:22:37,855 :INFO : test_e2e :First name entered: Abraham
+2021-02-11 12:22:37,903 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-11 12:22:37,966 :INFO : test_e2e :Email entered: testing45hg54@gmail.com
+2021-02-11 12:22:38,085 :INFO : test_e2e :password entered: abcd1234
+2021-02-11 12:22:38,102 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-11 12:22:38,635 :INFO : test_e2e :Date of birth: ['2002', '', '01']
+2021-02-11 12:25:17,868 :INFO : test_e2e :Filling the Form:
+2021-02-11 12:25:17,932 :INFO : test_e2e :First name entered: Abraham
+2021-02-11 12:25:17,984 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-11 12:25:18,047 :INFO : test_e2e :Email entered: testing455hg54@gmail.com
+2021-02-11 12:25:18,170 :INFO : test_e2e :password entered: abcd1234
+2021-02-11 12:25:18,186 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-11 12:25:18,613 :INFO : test_e2e :Date of birth: ['2002', '', '01']
+2021-02-11 12:27:42,517 :INFO : test_e2e :Filling the Form:
+2021-02-11 12:27:42,591 :INFO : test_e2e :First name entered: Abraham
+2021-02-11 12:27:42,649 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-11 12:27:42,723 :INFO : test_e2e :Email entered: testing457hg54@gmail.com
+2021-02-11 12:27:42,872 :INFO : test_e2e :password entered: abcd1234
+2021-02-11 12:27:42,887 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-11 12:27:43,490 :INFO : test_e2e :Date of birth: ['2002', '', '01']
+2021-02-11 12:27:43,786 :INFO : test_e2e :End of form message 
+2021-02-11 12:33:49,285 :INFO : test_e2e :Filling the Form:
+2021-02-11 12:33:49,349 :INFO : test_e2e :First name entered: Abraham
+2021-02-11 12:33:49,397 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-11 12:33:49,461 :INFO : test_e2e :Email entered: testing457dhg54@gmail.com
+2021-02-11 12:33:49,583 :INFO : test_e2e :password entered: abcd1234
+2021-02-11 12:33:49,600 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-11 12:33:50,140 :INFO : test_e2e :Date of birth: ['2002', '', '01']
+2021-02-11 12:33:50,420 :INFO : test_e2e :End of form message 
+2021-02-11 19:56:50,678 :INFO : test_checkout :Checkout Page:
+2021-02-11 19:57:15,194 :INFO : test_e2e :Filling the Form:
+2021-02-11 19:57:15,260 :INFO : test_e2e :First name entered: Abraham
+2021-02-11 19:57:15,309 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-11 19:57:15,379 :INFO : test_e2e :Email entered: testing457dhg54@gmail.com
+2021-02-11 19:57:15,484 :INFO : test_e2e :password entered: abcd1234
+2021-02-11 19:57:15,499 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-11 19:57:15,925 :INFO : test_e2e :Date of birth: ['2002', '01', '01']
+2021-02-11 19:57:16,002 :INFO : test_e2e :End of form message 
+2021-02-11 19:57:26,978 :INFO : test_signin :Sign in form:
+2021-02-11 19:57:26,978 :INFO : test_signin :UserName: Abraham
+2021-02-11 19:57:27,206 :INFO : test_signin :Email: signintest1@gmail.com
+2021-02-11 19:57:27,292 :INFO : test_signin :Password: abcd1234
+2021-02-11 19:57:34,719 :INFO : test_signin :Singed in Username: Abraham

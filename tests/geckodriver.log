@@ -1,0 +1,185 @@
+1613256598584	geckodriver	INFO	Listening on 127.0.0.1:49225
+1613256601655	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ABRAHA~1.ZIL\\AppData\\Local\\Temp\\rust_mozprofileN2hbaz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613256604071	Marionette	INFO	Listening on port 49233
+1613256604396	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613256604665	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://blend.co.il/, line 293: ReferenceError: _etmc is not defined
+JavaScript error: https://blend.co.il/wp-content/cache/min/1/optimize-dd7675594227c45d610ec05e8fdadb1c.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: https://blend.co.il/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js?ver=1.2.4.2, line 516: unreachable code after return statement
+JavaScript warning: https://blend.co.il/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js?ver=1.2.4.2, line 516: unreachable code after return statement
+JavaScript error: https://100007250.collect.igodigital.com/collect.js, line 215: TypeError: document.body is null
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://blend.co.il/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js?ver=1.2.4.2, line 516: unreachable code after return statement
+JavaScript warning: https://blend.co.il/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js?ver=1.2.4.2, line 516: unreachable code after return statement
+1613256622078	Marionette	INFO	Stopped listening on port 49233
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613256623472	geckodriver	INFO	Listening on 127.0.0.1:49358
+1613256626498	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ABRAHA~1.ZIL\\AppData\\Local\\Temp\\rust_mozprofileTWrsKJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613256628947	Marionette	INFO	Listening on port 49366
+1613256629241	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613256629469	Marionette	ERROR	[15] No reply from Marionette:Register
+1613256629512	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://blend.co.il/, line 293: ReferenceError: _etmc is not defined
+JavaScript error: https://blend.co.il/wp-content/cache/min/1/optimize-dd7675594227c45d610ec05e8fdadb1c.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: https://blend.co.il/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js?ver=1.2.4.2, line 516: unreachable code after return statement
+JavaScript warning: https://blend.co.il/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js?ver=1.2.4.2, line 516: unreachable code after return statement
+JavaScript error: https://blend.co.il/register, line 277: ReferenceError: zE is not defined
+JavaScript error: https://blend.co.il/register, line 339: ReferenceError: _etmc is not defined
+JavaScript error: https://blend.co.il/wp-content/cache/min/1/optimize-dd7675594227c45d610ec05e8fdadb1c.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: https://blend.co.il/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js?ver=1.2.4.2, line 516: unreachable code after return statement
+JavaScript warning: https://blend.co.il/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js?ver=1.2.4.2, line 516: unreachable code after return statement
+1613256641578	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+JavaScript error: https://blend.co.il/register, line 277: ReferenceError: zE is not defined
+JavaScript error: https://blend.co.il/register, line 339: ReferenceError: _etmc is not defined
+JavaScript error: https://blend.co.il/wp-content/cache/min/1/optimize-dd7675594227c45d610ec05e8fdadb1c.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: https://blend.co.il/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js?ver=1.2.4.2, line 516: unreachable code after return statement
+JavaScript warning: https://blend.co.il/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js?ver=1.2.4.2, line 516: unreachable code after return statement
+JavaScript error: https://blend.co.il/register, line 277: ReferenceError: zE is not defined
+JavaScript error: https://blend.co.il/register, line 339: ReferenceError: _etmc is not defined
+JavaScript error: https://blend.co.il/wp-content/cache/min/1/optimize-dd7675594227c45d610ec05e8fdadb1c.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: https://blend.co.il/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js?ver=1.2.4.2, line 516: unreachable code after return statement
+JavaScript warning: https://blend.co.il/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js?ver=1.2.4.2, line 516: unreachable code after return statement
+1613256653771	Marionette	INFO	Stopped listening on port 49366
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613256655052	geckodriver	INFO	Listening on 127.0.0.1:49547
+1613256658105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ABRAHA~1.ZIL\\AppData\\Local\\Temp\\rust_mozprofileXFxWj9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613256660402	Marionette	INFO	Listening on port 49555
+1613256662879	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613256662899	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://blend.co.il/, line 293: ReferenceError: _etmc is not defined
+JavaScript error: https://blend.co.il/wp-content/cache/min/1/optimize-dd7675594227c45d610ec05e8fdadb1c.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: https://blend.co.il/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js?ver=1.2.4.2, line 516: unreachable code after return statement
+JavaScript warning: https://blend.co.il/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js?ver=1.2.4.2, line 516: unreachable code after return statement
+JavaScript error: https://100007250.collect.igodigital.com/collect.js, line 215: TypeError: document.body is null
+JavaScript warning: https://blend.co.il/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js?ver=1.2.4.2, line 516: unreachable code after return statement
+JavaScript warning: https://blend.co.il/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js?ver=1.2.4.2, line 516: unreachable code after return statement
+1613256684076	Marionette	INFO	Stopped listening on port 49555
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613256898309	geckodriver	INFO	Listening on 127.0.0.1:49725
+1613256901347	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ABRAHA~1.ZIL\\AppData\\Local\\Temp\\rust_mozprofile1Enz7R"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613256903804	Marionette	INFO	Listening on port 49733
+1613256903988	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613256904472	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613256904502	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://blend.co.il/, line 293: ReferenceError: _etmc is not defined
+JavaScript error: https://blend.co.il/wp-content/cache/min/1/optimize-dd7675594227c45d610ec05e8fdadb1c.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: https://blend.co.il/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js?ver=1.2.4.2, line 516: unreachable code after return statement
+JavaScript warning: https://blend.co.il/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js?ver=1.2.4.2, line 516: unreachable code after return statement
+JavaScript error: https://100007250.collect.igodigital.com/collect.js, line 215: TypeError: document.body is null
+JavaScript warning: https://blend.co.il/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js?ver=1.2.4.2, line 516: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://blend.co.il/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js?ver=1.2.4.2, line 516: unreachable code after return statement
+1613256924600	Marionette	INFO	Stopped listening on port 49733
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613256926514	geckodriver	INFO	Listening on 127.0.0.1:49892
+1613256929539	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ABRAHA~1.ZIL\\AppData\\Local\\Temp\\rust_mozprofileqTH664"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613256932402	Marionette	INFO	Listening on port 49901
+1613256934153	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613256934174	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://blend.co.il/, line 293: ReferenceError: _etmc is not defined
+JavaScript error: https://blend.co.il/wp-content/cache/min/1/optimize-dd7675594227c45d610ec05e8fdadb1c.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: https://blend.co.il/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js?ver=1.2.4.2, line 516: unreachable code after return statement
+JavaScript warning: https://blend.co.il/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js?ver=1.2.4.2, line 516: unreachable code after return statement
+JavaScript error: https://blend.co.il/register, line 277: ReferenceError: zE is not defined
+JavaScript error: https://blend.co.il/register, line 339: ReferenceError: _etmc is not defined
+JavaScript error: https://blend.co.il/wp-content/cache/min/1/optimize-dd7675594227c45d610ec05e8fdadb1c.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: https://blend.co.il/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js?ver=1.2.4.2, line 516: unreachable code after return statement
+JavaScript warning: https://blend.co.il/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js?ver=1.2.4.2, line 516: unreachable code after return statement
+1613256946968	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+JavaScript error: https://blend.co.il/register, line 277: ReferenceError: zE is not defined
+JavaScript error: https://blend.co.il/register, line 339: ReferenceError: _etmc is not defined
+JavaScript error: https://blend.co.il/wp-content/cache/min/1/optimize-dd7675594227c45d610ec05e8fdadb1c.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: https://blend.co.il/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js?ver=1.2.4.2, line 516: unreachable code after return statement
+JavaScript warning: https://blend.co.il/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js?ver=1.2.4.2, line 516: unreachable code after return statement
+JavaScript error: https://blend.co.il/register, line 277: ReferenceError: zE is not defined
+JavaScript error: https://blend.co.il/register, line 339: ReferenceError: _etmc is not defined
+JavaScript error: https://blend.co.il/wp-content/cache/min/1/optimize-dd7675594227c45d610ec05e8fdadb1c.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: https://blend.co.il/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js?ver=1.2.4.2, line 516: unreachable code after return statement
+JavaScript warning: https://blend.co.il/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js?ver=1.2.4.2, line 516: unreachable code after return statement
+1613256958568	Marionette	INFO	Stopped listening on port 49901
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613256960082	geckodriver	INFO	Listening on 127.0.0.1:50088
+1613256963085	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ABRAHA~1.ZIL\\AppData\\Local\\Temp\\rust_mozprofilegyrHkz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613256966525	Marionette	INFO	Listening on port 50096
+1613256968040	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613256968058	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://blend.co.il/, line 293: ReferenceError: _etmc is not defined
+JavaScript error: https://blend.co.il/wp-content/cache/min/1/optimize-dd7675594227c45d610ec05e8fdadb1c.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: https://blend.co.il/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js?ver=1.2.4.2, line 516: unreachable code after return statement
+JavaScript warning: https://blend.co.il/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js?ver=1.2.4.2, line 516: unreachable code after return statement
+JavaScript error: https://100007250.collect.igodigital.com/collect.js, line 215: TypeError: document.body is null
+JavaScript warning: https://blend.co.il/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js?ver=1.2.4.2, line 516: unreachable code after return statement
+JavaScript warning: https://blend.co.il/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js?ver=1.2.4.2, line 516: unreachable code after return statement
+1613256983048	Marionette	INFO	Stopped listening on port 50096
+[Child 8396, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+[Child 8396, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+[Parent 13704, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
