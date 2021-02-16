@@ -295,3 +295,90 @@
 2021-02-11 19:57:27,206 :INFO : test_signin :Email: signintest1@gmail.com
 2021-02-11 19:57:27,292 :INFO : test_signin :Password: abcd1234
 2021-02-11 19:57:34,719 :INFO : test_signin :Singed in Username: Abraham
+2021-02-16 14:12:42,706 :INFO : test_checkout :Checkout Page:
+2021-02-16 14:12:56,175 :INFO : test_e2e :Filling the Form:
+2021-02-16 14:12:56,337 :INFO : test_e2e :First name entered: Abraham
+2021-02-16 14:12:56,608 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-16 14:12:57,053 :INFO : test_e2e :Email entered: blaha12@gmail.com
+2021-02-16 14:12:57,239 :INFO : test_e2e :password entered: abcd1234
+2021-02-16 14:12:57,272 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-16 14:12:58,350 :INFO : test_e2e :Date of birth: ['2002', '01', '01']
+2021-02-16 14:12:58,470 :INFO : test_e2e :End of form message 
+2021-02-16 14:13:02,026 :INFO : test_e2e :Filling the Form:
+2021-02-16 14:13:02,026 :INFO : test_e2e :Filling the Form:
+2021-02-16 14:13:02,582 :INFO : test_e2e :First name entered: Joey
+2021-02-16 14:13:02,582 :INFO : test_e2e :First name entered: Joey
+2021-02-16 14:13:02,666 :INFO : test_e2e :Last name entered: Simens
+2021-02-16 14:13:02,666 :INFO : test_e2e :Last name entered: Simens
+2021-02-16 14:13:02,765 :INFO : test_e2e :Email entered: jojo123@gmail.com
+2021-02-16 14:13:02,765 :INFO : test_e2e :Email entered: jojo123@gmail.com
+2021-02-16 14:13:02,936 :INFO : test_e2e :password entered: abcd1234
+2021-02-16 14:13:02,936 :INFO : test_e2e :password entered: abcd1234
+2021-02-16 14:13:02,958 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-16 14:13:02,958 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-16 14:13:03,600 :INFO : test_e2e :Date of birth: ['2002', '01', '01']
+2021-02-16 14:13:03,600 :INFO : test_e2e :Date of birth: ['2002', '01', '01']
+2021-02-16 14:13:03,708 :INFO : test_e2e :End of form message 
+2021-02-16 14:13:03,708 :INFO : test_e2e :End of form message 
+2021-02-16 14:13:17,530 :INFO : test_signin :Sign in form:
+2021-02-16 14:13:17,531 :INFO : test_signin :UserName: Abraham
+2021-02-16 14:13:43,594 :INFO : test_checkout :Checkout Page:
+2021-02-16 14:13:57,840 :INFO : test_e2e :Filling the Form:
+2021-02-16 14:13:57,944 :INFO : test_e2e :First name entered: Abraham
+2021-02-16 14:13:58,053 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-16 14:13:58,165 :INFO : test_e2e :Email entered: blaha12@gmail.com
+2021-02-16 14:13:58,741 :INFO : test_e2e :password entered: abcd1234
+2021-02-16 14:13:58,764 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-16 14:13:59,411 :INFO : test_e2e :Date of birth: ['2002', '01', '01']
+2021-02-16 14:13:59,807 :INFO : test_e2e :End of form message 
+2021-02-16 14:14:03,074 :INFO : test_e2e :Filling the Form:
+2021-02-16 14:14:03,074 :INFO : test_e2e :Filling the Form:
+2021-02-16 14:14:03,163 :INFO : test_e2e :First name entered: Joey
+2021-02-16 14:14:03,163 :INFO : test_e2e :First name entered: Joey
+2021-02-16 14:14:03,456 :INFO : test_e2e :Last name entered: Simens
+2021-02-16 14:14:03,456 :INFO : test_e2e :Last name entered: Simens
+2021-02-16 14:14:03,606 :INFO : test_e2e :Email entered: jojo123@gmail.com
+2021-02-16 14:14:03,606 :INFO : test_e2e :Email entered: jojo123@gmail.com
+2021-02-16 14:14:03,736 :INFO : test_e2e :password entered: abcd1234
+2021-02-16 14:14:03,736 :INFO : test_e2e :password entered: abcd1234
+2021-02-16 14:14:03,753 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-16 14:14:03,753 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-16 14:14:04,309 :INFO : test_e2e :Date of birth: ['2002', '01', '01']
+2021-02-16 14:14:04,309 :INFO : test_e2e :Date of birth: ['2002', '01', '01']
+2021-02-16 14:14:04,405 :INFO : test_e2e :End of form message 
+2021-02-16 14:14:04,405 :INFO : test_e2e :End of form message 
+2021-02-16 14:14:13,536 :INFO : test_signin :Sign in form:
+2021-02-16 14:14:13,536 :INFO : test_signin :UserName: Abraham
+2021-02-16 14:14:13,788 :INFO : test_signin :Email: signintest1@gmail.com
+2021-02-16 14:14:13,910 :INFO : test_signin :Password: abcd1234
+2021-02-16 14:15:19,130 :INFO : test_checkout :Checkout Page:
+2021-02-16 14:15:24,647 :INFO : test_checkout :Prices: 50.00,110.00,160.00,160.00
+2021-02-16 14:15:24,647 :INFO : test_checkout :Price Before Discount: 160.0
+2021-02-16 14:15:24,647 :INFO : test_checkout :Discount Is: 0.0
+2021-02-16 14:15:24,647 :INFO : test_checkout :Prices After Discount: 160.0
+2021-02-16 14:15:34,855 :INFO : test_e2e :Filling the Form:
+2021-02-16 14:15:34,934 :INFO : test_e2e :First name entered: Abraham
+2021-02-16 14:15:35,001 :INFO : test_e2e :Last name entered: Gilbert
+2021-02-16 14:15:35,082 :INFO : test_e2e :Email entered: blaha12@gmail.com
+2021-02-16 14:15:35,232 :INFO : test_e2e :password entered: abcd1234
+2021-02-16 14:15:35,254 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-16 14:15:36,332 :INFO : test_e2e :Date of birth: ['2002', '01', '01']
+2021-02-16 14:15:36,455 :INFO : test_e2e :End of form message 
+2021-02-16 14:15:39,392 :INFO : test_e2e :Filling the Form:
+2021-02-16 14:15:39,392 :INFO : test_e2e :Filling the Form:
+2021-02-16 14:15:39,544 :INFO : test_e2e :First name entered: Joey
+2021-02-16 14:15:39,544 :INFO : test_e2e :First name entered: Joey
+2021-02-16 14:15:39,609 :INFO : test_e2e :Last name entered: Simens
+2021-02-16 14:15:39,609 :INFO : test_e2e :Last name entered: Simens
+2021-02-16 14:15:39,686 :INFO : test_e2e :Email entered: jojo123@gmail.com
+2021-02-16 14:15:39,686 :INFO : test_e2e :Email entered: jojo123@gmail.com
+2021-02-16 14:15:39,828 :INFO : test_e2e :password entered: abcd1234
+2021-02-16 14:15:39,828 :INFO : test_e2e :password entered: abcd1234
+2021-02-16 14:15:39,845 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-16 14:15:39,845 :INFO : test_e2e :Checkbox unchecked: V
+2021-02-16 14:15:40,404 :INFO : test_e2e :Date of birth: ['2002', '01', '01']
+2021-02-16 14:15:40,404 :INFO : test_e2e :Date of birth: ['2002', '01', '01']
+2021-02-16 14:15:40,499 :INFO : test_e2e :End of form message 
+2021-02-16 14:15:40,499 :INFO : test_e2e :End of form message 
+2021-02-16 14:15:49,576 :INFO : test_signin :Sign in form:
+2021-02-16 14:15:49,576 :INFO : test_signin :UserName: Abraham

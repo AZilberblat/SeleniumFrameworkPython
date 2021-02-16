@@ -20,7 +20,7 @@ class TestThree(BaseClass):
         items = homepage.getCartItems()
 
 
-        for i in range(0, 3):
+        for i in range(1, 3):
             items[i].click()
             time.sleep(1)
 
@@ -29,7 +29,7 @@ class TestThree(BaseClass):
         self.verifyLinkPresenceByTag("bdi")
 
         prices = checkout.getPrices()
-        #log.info("Prices: " + " ".join(prices))
+
         capturedPrices = []
         for i in prices:
             capturedPrices.append(i.text.replace("₪", ""))
