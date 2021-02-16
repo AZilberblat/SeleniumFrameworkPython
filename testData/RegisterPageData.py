@@ -5,4 +5,4 @@ class RegisterPageData:
     outputs = {"success": "כיף שהצטרפתם אלינו! החיים הטובים מתחילים כאן"}
 
 
-# {"firstName": "Levi", "lastName": "Gilbert", "email": "tesfhtin1278@gmail.com", "password": "abcd1234"}
+# {"firstName": "Levi", "lastName": "Gilbert", "email": "tesfhtin1278@gmail.com", "password": "abcd1234"} test
