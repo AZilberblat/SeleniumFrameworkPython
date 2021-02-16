@@ -7,11 +7,12 @@ class RegisterPageData:
     @staticmethod
     def getTestData():
         dfs = pd.read_excel(r"C:\Users\abraham.zilberblat\PycharmProjects\SeleniumFramework\testData\registerData.xlsx")
+        data_dict = dfs.to_dict(orient='index')
         listOfData = []
         for item in data_dict.values():
             print(item)
             listOfData.append(item)
-        return  listOfData
+        return listOfData
 
 
 

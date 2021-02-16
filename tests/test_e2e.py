@@ -23,7 +23,7 @@ class TestOne(BaseClass):
         homepage = HomePage(self.driver)
         register_page = RegisterPage(self.driver)
         homepage.register_button().click()
-        self.driver.get("https://blend.co.il/register")
+        #self.driver.get("https://blend.co.il/register")
 
         log.info("Filling the Form:")
         # filling form first name
@@ -49,7 +49,7 @@ class TestOne(BaseClass):
         log.info("Checkbox unchecked: V")
 
         # filling the date of birth fields
-        #self.verifyLinkPresenceByName("masked-select-inner")
+
         yearBox = register_page.getDateOfBirth()
         birth = []
 
@@ -60,7 +60,7 @@ class TestOne(BaseClass):
 
         log.info("Date of birth: " + str(birth))
 
-        #log.info("Date of birth entered: " + birth[0] + "/" + birth[1] + "/" + birth[2])
+
 
         # pressing the register button
         register_page.getConfirmButton().click()
@@ -76,6 +76,6 @@ class TestOne(BaseClass):
 
         self.driver.refresh()
 
-    @pytest.fixture(params=RegisterPageData.test_register_data)
+    @pytest.fixture(params=RegisterPageData.getTestData())
     def getData(self, request):
         return request.param
