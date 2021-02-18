@@ -9,7 +9,7 @@ from testData.HomePageData import HomePageData
 
 
 class TestTwo(BaseClass):
-
+    @pytest.mark.userTests
     def test_signin(self, getData):
         log = self.getLogger()
         log.info("Sign in form:")

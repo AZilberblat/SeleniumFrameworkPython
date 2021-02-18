@@ -15,7 +15,7 @@ from utilities.BaseClass import BaseClass
 
 
 class TestOne(BaseClass):
-
+    @pytest.mark.userTests
     def test_e2e(self, getData):
 
         log = self.getLogger()
