@@ -11,7 +11,7 @@ from testData.HomePageData import HomePageData
 import  time
 
 class TestThree(BaseClass):
-
+    @pytest.mark.itemsTests
     def test_checkout(self):
         log = self.getLogger()
         log.info("Checkout Page:")
