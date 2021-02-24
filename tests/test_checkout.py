@@ -18,6 +18,7 @@ class TestThree(BaseClass):
         homepage = HomePage(self.driver)
         checkout = CheckoutPage(self.driver)
         items = homepage.getCartItems()
+        log.info("Adding items to the basket...")
 
 
         for i in range(1, 3):
@@ -26,6 +27,7 @@ class TestThree(BaseClass):
 
 
         homepage.getCheckoutButton().click()
+        log.info("Clicking checkot button...")
         self.verifyLinkPresenceByTag("bdi")
 
         prices = checkout.getPrices()

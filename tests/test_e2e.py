@@ -23,6 +23,7 @@ class TestOne(BaseClass):
         homepage = HomePage(self.driver)
         register_page = RegisterPage(self.driver)
         homepage.register_button().click()
+        log.info("Clicking The sign in button")
         #self.driver.get("https://blend.co.il/register")
 
         log.info("Filling the Form:")

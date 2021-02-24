@@ -17,6 +17,7 @@ class TestTwo(BaseClass):
         userName = getData["username"]
         log.info("UserName: " + getData["username"])
         homepage.signin_button().click()
+        log.info("Clicking on sing in button...")
 
         self.verifyLinkPresenceByName("loginusername")
 
